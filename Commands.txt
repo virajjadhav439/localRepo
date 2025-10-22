@@ -1,0 +1,6 @@
+1.git clone <https>
+2.git status - U-untracted , M-modified 
+3.git add index.html - only 1 file 
+4.git add . - all files 
+5.git commit -m "message"
+6.git push origin main
